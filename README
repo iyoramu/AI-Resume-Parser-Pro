@@ -5,10 +5,6 @@
 
 A world-class resume parsing system that leverages Natural Language Processing (NLP) and Machine Learning (ML) to extract, analyze, and structure information from resumes in various formats.
 
-## GitHub Repository Name
-**AI-Resume-Parser-Pro**  
-*(Suggested alternative: "ResumeIntelliParse", "CVInsightEngine", or "DeepResumeAnalyzer")*
-
 ## Key Features
 
 - Multi-format support (PDF, DOCX, TXT, images with OCR)
